@@ -1,0 +1,48 @@
+Base,Base2,Milk,Flavor,Texture,drinkEN,count
+Barley tea,No,Soy milk,No,No,Barley soy milk,1
+Barley tea,No,Fresh milk,No,No,Barley tea latte,1
+Black tea,No,Fresh milk,No,Mashed sweet potato,Black tea latte with mashed sweet potato,1
+Black tea,No,Fresh milk,Cocoa,No,Black tea latte with ruby chocolate,1
+Black tea,Coffee,Fresh cream,No,No,Black tea macchiato,1
+Black tea,No,Fresh milk,No,Dried longan,Longan latte,1
+Black tea,No,Milk powder,No,Dried longan,Longan milk tea,1
+Black tea,No,Milk powder,No,Mashed sweet potato,Mashed sweet potato milk tea,1
+Black tea,No,Milk powder,No,Taro balls,Taro ball milk tea,1
+Black tea,No,Milk powder,No,Millet mush,Millet mush milk tea,1
+Black tea,No,Milk powder,No,Pudding,Pudding milk tea,1
+Black tea,No,Milk powder,Sesame,No,Sesame milk tea,1
+Black tea,No,Milk powder,No,No,Milk tea,1
+Black tea,No,Milk powder,Honey,No,Honey milk tea,1
+Black tea,No,Milk powder,No,Ice cream,Ice cream milk tea,1
+Black tea,No,Milk powder,No,Pearl,Pearl milk tea,1
+Black tea,No,Milk powder,No,Boba,Boba milk tea,1
+Black tea,No,Milk powder,Taro puree,No,Taro milk tea,1
+Black tea,No,Fresh milk,No,Pearl,Pearl black tea latte,1
+Black tea,No,Fresh milk,No,No,Black tea latte,1
+Black tea,No,Soy milk,No,No,Black tea soy milk,1
+Black tea,No,Fresh milk,No,Boba,Boba black tea latte,1
+Black tea,No,Fresh milk,Sesame,Boba,Boba sesame black tea latte,1
+Black tea,No,Milk powder,No,Coconut jelly,Coconut jelly milk tea,1
+Black tea,No,Milk powder,No,Coffee jelly,Coffee jelly milk tea,1
+Black tea,Ginger tea,Milk powder,No,No,Ginger milk tea,1
+Black tea,No,Milk powder,No,Grass jelly,Grass jelly milk tea,1
+Green tea,No,Milk powder,No,Boba,Boba green milk tea,1
+Green tea,No,Milk powder,No,Taro balls,Green milk tea with taro balls,1
+Green tea,No,Fresh milk,No,Taro balls,Taro ball green tea latte,1
+Green tea,No,Fresh milk,No,No,Green tea latte,1
+Green tea,No,Milk powder,No,No,Green milk tea,1
+Green tea,No,Milk powder,No,Pearl,Pearl green milk tea,1
+Green tea,No,Milk powder,No,Pudding,Pudding green milk tea,1
+Green tea,No,Fresh milk,Taro puree,No,Taro green tea latte,1
+Hojicha,No,Fresh milk,No,No,Hojicha latte,1
+Puer tea,No,Fresh milk,Honey,Boba,Honey boba puer tea latte,1
+Matcha tea,No,Fresh milk,No,No,Matcha latte,1
+Matcha tea,No,Fresh milk,Cocoa,No,Matcha latte with ruby chocolate,1
+Oolong tea,Coffee,Fresh cream,No,No,Oolong macchiato,1
+Oolong tea,No,Milk powder,No,No,Oolong milk tea,1
+Oolong tea,No,Soy milk,No,No,Oolong soy milk,1
+Oolong tea,No,Fresh milk,No,No,Oolong tea latte,1
+Oolong tea,No,Milk powder,No,Boba,Boba oolong milk tea,1
+Oolong tea,No,Milk powder,No,Pearl,Pearl oolong milk tea,1
+Oolong tea,No,Milk powder,No,Rice grain,Rice grain oolong milk tea,1
+Winter melon tea,No,Fresh milk,No,No,Winter melon tea latte,1
